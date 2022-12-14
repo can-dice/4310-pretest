@@ -15,6 +15,8 @@ At this point, you should have
 (1) an account on [Github](https://github.com/) and
 (2) been introduced to the very basics of [Git](https://git-scm.com/).
 
+IF you don't have an account or know how to use git, notify your instructor (they will help you get the pretest up and running). Otherwise, proceed to #1 below.
+
 1.  Login to your [Github](https://github.com/) account.
 
 1.  Fork [this repository](https://github.com/KLab-UT/4310-pretest) by
