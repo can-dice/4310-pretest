@@ -12,10 +12,11 @@ The aim of this pretest is simply to see where you are in your bioinformatics jo
 # Getting set up
 
 At this point, you should have
-(1) an account on [Github](https://github.com/) and
-(2) been introduced to the very basics of [Git](https://git-scm.com/).
+(1) basic knowledge on using the command line to navigate in terminal,
+(2) an account on [Github](https://github.com/), and
+(3) been introduced to the very basics of [Git](https://git-scm.com/).
 
-IF you don't have an account or know how to use git, notify your instructor (they will help you get the pretest up and running). Otherwise, proceed to #1 below.
+IF you don't know how to use terminal, don't have a github account, or don't know how to use git, notify your instructor (they will help you get the pretest up and running). Otherwise, proceed to #1 below.
 
 1.  Login to your [Github](https://github.com/) account.
 
