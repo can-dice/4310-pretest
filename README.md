@@ -55,11 +55,11 @@ At this point, you should have
 
 Once you have cloned the repository, move into the directory
 
-$ cd path/to/repository/4310-pretest
+	$ cd path/to/repository/4310-pretest
 
 Begin the pretest by running the script
 
-$ python3 pretest.py
+	$ python3 pretest.py
 
 Answer the questions by typing a response and hitting enter. Your output will be written to test_results.txt.
 
