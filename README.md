@@ -6,8 +6,7 @@ The aim of this pretest is simply to see where you are in your bioinformatics jo
 # Contents
 
 -   [Getting set up](#getting-set-up)
--   [Running the test](#running-test)
--   [License](#license)
+-   [Running the test](#running-the-test)
 
 
 # Getting set up
