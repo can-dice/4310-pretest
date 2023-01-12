@@ -1,0 +1,54 @@
+Question 0: What does the command 'cd ~' do on the command line?
+Goes back a directory
+
+Question 1: What does the command 'ls' do on the command line?
+Lists what is in your current directory
+
+Question 2: What are the symbols '#' used for in bash and python?
+Used for comments
+
+Question 3: What is a python package? Are you familiar with any python packages?
+I have used python packages before but I can't remember what ones off of the top of my head. From my understanding they are basically code with functions that you can use. I want to say that there is a math function where you can simply imput parameters for a sqaure root or a more complex equation and it will return it fo install/call the package
+
+Question 4: What is a SNP? (hint: this is a biology question, not a computer science question)
+A SNP is a short nucleotide polymorphism. This is typically when one nucleotide is wrong and can cause problems
+
+Question 5: What is high-throughput (next generation) sequencing? What types of high-throughput sequencing have you heard of? How do they work?
+I am pretty sure I know examples of this, but I am going blank at the moment. 
+
+Question 6: What is read mapping?
+From what I understand it is where you have a bunch of reads(strands of dna/genome) and you are trying to find the whole strand. The reads are typically smaller and you can use certain programs to help you map them where you can see overlaps.
+
+Question 7: What is variant calling?
+I know it, but don't really know how to describe it
+
+Question 8: What are your post-graduation plans (if you have any- it's okay if you don't!)
+PhD programs. I am waiting to hear back from Penn State and Stanford. I will be doing an internship at Stanford this summer though
+
+Question 9: What have you enjoyed learning about in CS/bioinformatics courses?
+Everything! I have literally have really enjoyed all of my courses. I love learning from various professors and different topics. I do know that I am not a huge phylogenetic person, but I can do it. 
+
+Question 10: Is there anything in particular you want to learn before you graduate?
+Anything and everything. Honestly looking at the syllabus I feel pretty happy about what we are going to be doing. 
+
+Question 11: On a scale of 0-9, how comfortable are you using the command line?
+5
+
+Question 12: On a scale of 0-9, how comfortable are you coding in bash?
+3
+
+Question 13: On a scale of 0-9, how comfortable are you coding in python?
+8
+
+Question 14: In computer science, what is a variable?
+Used to store data
+
+Question 15: In computer science, what is a function?
+Code that can be used again and again
+
+Question 16: What is a for loop? What is a while loop?
+A for loop runs until the set range while while loops only run when parameters are met.
+
+Question 17: What is parallelization? Is running commands in-parallel more efficient than running them in a loop?
+I'm not sure if I know the definition of parallelization. But running things in-parallel versus in a loop is more efficient
+
